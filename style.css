@@ -1,0 +1,25 @@
+/* h1{
+    color: aqua;
+}
+button{
+    color: gold;
+}
+body{
+    background-color:#f0f000;
+} */
+#box{
+    background-color:#0000ff ;
+}
+.h{
+    color:#ff0000;
+}
+/* #h{
+    background-color: green;
+} */
+p{
+    text-align:right;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+}
